@@ -1,0 +1,9 @@
+.git
+node_modules
+.next
+.turbo
+*.log
+.env*.local
+coverage
+.vscode
+.idea
